@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/james/.virtualenvs/lda-fcg4bCUW/bin/python"
+    "python.pythonPath": "C:\\Users\\James\\.virtualenvs\\LDA-3ON5l0mv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
 }

@@ -1,0 +1,7 @@
+corpus/
+out/
+test/
+.ipynb_checkpoints/
+.vscode/
+*.csv
+Pipfile

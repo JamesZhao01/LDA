@@ -8,8 +8,12 @@ pandas = "*"
 gensim = "*"
 nltk = "*"
 numpy = "*"
+scipy = "*"
+matplotlib = "*"
+ipykernel = "*"
+sklearn = "*"
+ipympl = "*"
+ipycanvas = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3.7"
+autopep8 = "*"
