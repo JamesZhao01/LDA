@@ -1,7 +1,13 @@
 corpus/
+corpus2/
+corpus_05_30/
+fake/
+generated/
 out/
 test/
 .ipynb_checkpoints/
 .vscode/
 *.csv
 Pipfile
+
+*.png
